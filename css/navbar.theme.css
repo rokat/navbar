@@ -20,11 +20,11 @@
 #navbar-administration .navbar-tray .edit-shortcuts {
   padding: 1em 1.3333em;
 }
-.navbar-box a {
+#navbar-administration .navbar-box a {
   cursor: pointer;
   text-decoration: none;
 }
-.navbar-box a:hover {
+#navbar-administration .navbar-box a:hover {
   text-decoration: underline;
 }
 
